@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "version": "1.4",
+  "name": "makeitblue",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(24, 25, 26)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(24, 25, 26)",
+      "tab_background_text": "rgb(167, 169, 171)",
+      "toolbar_field": "rgb(9, 81, 202)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(9, 81, 202)",
+      "popup": "rgb(9, 81, 202)",
+      "popup_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(9, 81, 202)",
+      "popup_highlight": "rgb(0, 0, 0)",
+      "sidebar_border": "rgb(9, 81, 202)",
+      "sidebar_highlight": "rgb(0, 0, 0)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "sidebar": "rgb(9, 81, 202)",
+      "tab_loading": "rgb(0, 0, 0)",
+      "tab_selected": "rgb(9, 81, 202)",
+      "toolbar_field_border_focus": "rgb(9, 81, 202)",
+      "toolbar_field_highlight": "rgb(0, 0, 0)",
+      "toolbar_top_separator": "rgb(24, 25, 26)"
+    }
+  }
+}
